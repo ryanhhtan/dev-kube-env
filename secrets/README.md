@@ -1,3 +1,3 @@
-# Descalimer
+# Desclaimer
 
-This is for my personal dev env, do not use in production.
+This secrets are for my personal development environment, do not use in production.
