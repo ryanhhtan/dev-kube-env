@@ -1,0 +1,8 @@
+image:
+  tag: 10
+existingSecret: dev-postgres-secret
+persistence:
+  # existingClaim: dev-postgres-pvc
+  size: 0.5Gi
+# volumePermissions:
+  # enabled: true

@@ -1,0 +1,6 @@
+
+persistence: 
+  size: 0.5Gi
+zookeeper:
+  persistence:
+    size: 0.5Gi

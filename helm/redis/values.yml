@@ -1,0 +1,6 @@
+usePassword: false
+master:
+  persistence:
+    size: 0.5Gi
+cluster:
+  enabled: false
