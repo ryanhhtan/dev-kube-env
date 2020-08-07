@@ -1,3 +1,4 @@
+fullnameOverride: dev-postgres
 image:
   tag: 10
 existingSecret: dev-postgres-secret
